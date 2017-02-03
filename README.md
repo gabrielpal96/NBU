@@ -1,4 +1,7 @@
-![enter image description here](http://isic.bg/public/upload/content/158/200/nbu_logo.jpg)
+
+
+
+[![enter image description here](http://isic.bg/public/upload/content/158/200/nbu_logo.jpg)](http://www.nbu.bg/)
 
 NBU
 ===================
@@ -19,4 +22,4 @@ NBU
  - [TowerOfHanoi.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/TowerOfHanoi.cpp)
  
  2. [CSCB317_Data_Structures](https://github.com/gabrielpal96/NBU/tree/master/CSCB317_Data_Structures)
-
+ 

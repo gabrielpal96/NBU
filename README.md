@@ -23,3 +23,10 @@ NBU
  
  2. [CSCB317_Data_Structures](https://github.com/gabrielpal96/NBU/tree/master/CSCB317_Data_Structures)
  
+ * [BynarySearch.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/BynarySearch.cpp)
+ * [GDC.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/GDC.cpp)
+ * [MergeSort.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/MergeSort.cpp)
+ * [MyStack.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/MyStack.cpp)
+ * [Pointers.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/Pointers.cpp)	
+ * [QuickSort.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/QuickSort.cpp)
+ * [TowerOfHanoi.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/TowerOfHanoi.cpp)

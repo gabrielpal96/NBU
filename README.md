@@ -30,3 +30,6 @@
 >  - [Pointers.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/Pointers.cpp)
 >  - [QuickSort.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/QuickSort.cpp)
 >  -  [TowerOfHanoi.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/TowerOfHanoi.cpp)
+
+
+                                          gabriel.pal.96@gmail.com

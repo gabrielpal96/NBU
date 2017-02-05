@@ -19,14 +19,14 @@
 >  - [4b.median the multitude](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/4_b_median_the_multitude..cpp)
 >  - [5a.Find the root of the equation](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/5_a_Find_the_root_of_the_equation.cpp)
 >  - [5b.Knight's tour](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/5_b_Knight's_tour.cpp)
->  - [6.a quicklyMove.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/6_a_quicklyMove.cpp)
-  >  - [6.b repetitionOfStringsFromElements.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/6_b_repetitionOfStringsFromElements.cpp)
+>  - [6.a quicklyMove](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/6_a_quicklyMove.cpp)
+  >  - [6.b repetitionOfStringsFromElements](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/6_b_repetitionOfStringsFromElements.cpp)
 >  - [7a.TwoTruckCargo](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/7_a_TwoTruckCargo.cpp)
 >  - [7b.Longest Non Decreasing Sequence](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/7_b_LongestNonDecreasingSequence.cpp)
->  - [8a.BreadthFirstSearch.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/8_a_BreadthFirstSearch.cpp)
->  - [9b.TravelingSalesmanProblem.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/9_b_TravelingSalesmanProblem.cpp)
- >  - [10a.queriesOnPrimes.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/10_a_queriesOnPrimes.cpp)
->  - [10b.anagram.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/10_b_anagram.cpp)
+>  - [8a.BreadthFirstSearch](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/8_a_BreadthFirstSearch.cpp)
+>  - [9b.TravelingSalesmanProblem](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/9_b_TravelingSalesmanProblem.cpp)
+ >  - [10a.queriesOnPrimes](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/10_a_queriesOnPrimes.cpp)
+>  - [10b.anagram](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/10_b_anagram.cpp)
 
 
 ---------------------

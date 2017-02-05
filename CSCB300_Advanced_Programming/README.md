@@ -1,4 +1,3 @@
-
 CSCB300 Advanced Programming
 ============================
 
@@ -12,7 +11,7 @@ CSCB300 Advanced Programming
 |[3a-3b](http://nikolay.kirov.be/2017/CSCB300/t03.html)|[3_a.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/3_a.cpp)|[3_b_The_number_of_prime_numbers.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/3_b_The_number_of_prime_numbers..cpp)|
 |[4a-4b](http://nikolay.kirov.be/2017/CSCB300/t04.html)|[4_a_the_biggest_n-digit_number..cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/4_a_the_biggest_n-digit_number..cpp)|[4_b_median_the_multitude..cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/4_b_median_the_multitude..cpp)|
 |[5a-5b](http://nikolay.kirov.be/2017/CSCB300/t05.html)|[5_a_Find_the_root_of_the_equation.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/5_a_Find_the_root_of_the_equation.cpp)|[5_b_Knight's_tour.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/5_b_Knight's_tour.cpp)|
-|[6a-6b](http://nikolay.kirov.be/2017/CSCB300/t06.html)|[]()|[]()|
+|[6a-6b](http://nikolay.kirov.be/2017/CSCB300/t06.html)|[6_a_quicklyMove.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/6_a_quicklyMove.cpp)|[6_b_repetitionOfStringsFromElements](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/6_b_repetitionOfStringsFromElements.cpp)|
 |[7a-7b](http://nikolay.kirov.be/2017/CSCB300/t07.html)|[7_a_TwoTruckCargo.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/7_a_TwoTruckCargo.cpp)|[7_b_LongestNonDecreasingSequence.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/7_b_LongestNonDecreasingSequence.cpp)|
 |[8a](http://nikolay.kirov.be/2017/CSCB300/t08.html)|[8_a_BreadthFirstSearch.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/8_a_BreadthFirstSearch.cpp)|| 
 |[9b](http://nikolay.kirov.be/2017/CSCB300/t09.html)||[9_b_TravelingSalesmanProblem.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/9_b_TravelingSalesmanProblem.cpp)|
@@ -21,4 +20,3 @@ CSCB300 Advanced Programming
 
 ---------
                                           gabriel.pal.96@gmail.com
-

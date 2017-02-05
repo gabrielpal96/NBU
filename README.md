@@ -1,4 +1,4 @@
-[![](http://www.news.nbu.bg/files/sabitiia/2016/09-2016/nbu-blue1.jpg)](http://www.news.nbu.bg/)
+[![](http://sbs-bg.org/wp-content/uploads/2013/05/logo-nbu.jpg)](http://www.news.nbu.bg/)
 
 **New Bulgarian University**
 ===================

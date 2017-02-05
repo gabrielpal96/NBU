@@ -7,17 +7,21 @@
 
     My courses:
 
- 
+> [**CSCB300_Advanced_Programming**](https://github.com/gabrielpal96/NBU/tree/master/CSCB300_Advanced_Programming)
+> 
+>  - [1_a_integer_in_binary_octal_and _hexadecimal.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/1_a_integer_in_binary_octal_and%20_hexadecimal.cpp)
+>  - [1_b_primeNumbers.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/1_b_primeNumbers.cpp)
+>  - [2_a.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/2_a.cpp)
+>  - [2_b_collection_of_simple_fractions.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/2_b_collection_of_simple_fractions.cpp)
+>  - [3_a.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/3_a.cpp)
+>  - [3_b_The_number_of_prime_numbers..cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/3_b_The_number_of_prime_numbers..cpp)
+>  - [4_a_the_biggest_n-digit_number..cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/4_a_the_biggest_n-digit_number..cpp)
+>  - [4_b_median_the_multitude..cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/4_b_median_the_multitude..cpp)
+>  - [5_a_Find_the_root_of_the_equation.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/5_a_Find_the_root_of_the_equation.cpp)
+>  - [5_b_Knight's_tour.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/5_b_Knight's_tour.cpp)
+>  - [7_a_TwoTruckCargo.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/7_a_TwoTruckCargo.cpp)
+>  - [7_b_LongestNonDecreasingSequence.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB300_Advanced_Programming/7_b_LongestNonDecreasingSequence.cpp)
 
->  [**CSCB300_Advanced_Programming**](https://github.com/gabrielpal96/NBU/tree/master/CSCB300_Advanced_Programming)
->     
->  - [BynarySearch.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/BynarySearch.cpp)
->  - [GDC.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/GDC.cpp)
->  - [MergeSort.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/MergeSort.cpp)
->  - [MyStack.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/MyStack.cpp)
->  - [Pointers.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/Pointers.cpp)
->  - [QuickSort.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/QuickSort.cpp)
->  - [TowerOfHanoi.cpp](https://github.com/gabrielpal96/NBU/blob/master/CSCB317_Data_Structures/TowerOfHanoi.cpp)
 
 ---------------------
  

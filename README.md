@@ -1,4 +1,4 @@
-[![](http://sbs-bg.org/wp-content/uploads/2013/05/logo-nbu.jpg)](http://www.news.nbu.bg/)
+[![](https://lh3.googleusercontent.com/HyexMRXaxujmW8Y_lyXY6M6V-gdv7iy2zBvpb_NAxSgPkS3apLPUQTWB7ahESgkjAOrt6I8_7aIlcsOvfTNzi9tljI9H1cvl7vJ1V_ovdHxUWymeGsfDX3I87n0WuWN_0wW0g4S1A-cCBo7DEKKp-gjO6aD-PJNMXFCHTGgt54_iF0d84UXae7ZS5wnnyHijn7Rms8cDXkjVlPIo23WQeN8gmjHEzDiPSJmXLs6Qf6R95ajQ1VKyepzPnhyiivLCoZJwM5Q_xEq7pmVnISkImYhXeth3iDsce3TAz-c9M9AB6E7tHYNk77MDFOUsXidoqfpsD7gQvJxEAsZjPzjKhzOvVioTbu71jRLjYdzm9shZ4yympQ4bOpmyHC7KMushKcQXklzBvS_APY87BszX5pVTssqKyF0Sllvg3PQI-kRLUZMeF7MtpOp1HLKzpar_N9NHriLGB8h6RlxhH6mMcGXq8-63EADBD6yk8gYSuLqcDU0z6oYvyep-GXp2nMRl0AbWpFd_10vM9rlPuMF_ifEs5cjdxCVPUpyNEAeRDDxhGwo48-qu_Sf1oOJJmoNswYlorvQ5x8W5krIwb0k5HP64_pH0HinnwLpzdRsT3BpnfTs45xEk2w=w1194-h439-no)](http://www.news.nbu.bg/)
 
 **New Bulgarian University**
 ===================

@@ -47,23 +47,41 @@
 
 > [**CSCB200_Practice_Object-Oriented_Programming**](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming)
 > 
->  - [01.Person](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/01.Person)
->  - [02.Property](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/02.Property)
->  - [03.Complex](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/03.Complex)
->  - [04.RegTask](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/04.RegTask)
->  - [05.CComplex](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/05.CComplex)
->  - [06.Double](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/06.Double)
->  - [07.TraceFun](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/07.TraceFun)
->  - [08.CountVar](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/08.CountVar)
->  - [09.RangeVar](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/09.RangeVar)
->  - [10.AProg](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/10.AProg)
->  - [11.GProg](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/11.GProg)
->  - [12.Ristream](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/12Ristream)
->  - [13.String](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/13.String)
->  - [14.Building](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/14.Building)
->  - [15.Hospital](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/15.Hospital)
->  - [16.ITCompany](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/16.ITCompany)
+> - [01.Person](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/01.Person)
+> - [02.Property](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/02.Property)
+> - [03.Complex](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/03.Complex)
+> - [04.RegTask](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/04.RegTask)
+> - [05.CComplex](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/05.CComplex)
+> - [06.Double](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/06.Double)
+> - [07.TraceFun](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/07.TraceFun)
+> - [08.CountVar](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/08.CountVar)
+> - [09.RangeVar](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/09.RangeVar)
+> - [10.AProg](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/10.AProg)
+> - [11.GProg](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/11.GProg)
+> - [12.Ristream](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/12Ristream)
+> - [13.String](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/13.String)
+> - [14.Building](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/14.Building)
+> - [15.Hospital](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/15.Hospital)
+> - [16.ITCompany](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/16.ITCompany)
 
 -----
+
+> [**CSCB209_Object_oriented_programming**](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming)
+> 
+>  - [01.Rational](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/01.Rational)
+>  - [02.Students](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/02.Students)
+>  - [03.RedefiningTheUnaryOperator](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/03.RedefiningTheUnaryOperator)
+>  - [04.Point](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/04.Point)
+>  - [05.RedefiningOperatorsAsExternalFunctions](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/05.RedefiningOperatorsAsExternalFunctions)
+>  - [06.RedefiningFunctionsAsFriends](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/06.RedefiningFunctionsAsFriends)
+>  - [07.Student](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/07.Student)
+>  - [08.SafeArray](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/08.SafeArray)
+>  - [09.Inheritance](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/09.Inheritance)
+>  - [10.CopyConstructor](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/10.CopyConstructor)
+>  - [11.MultipleInheritance](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/11.MultipleInheritance)
+>  - [12.RedefiningTheOperatorsAsMemberFunctions](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/12.RedefiningTheOperatorsAsMemberFunctions)
+
+---------
                                           gabriel.pal.96@gmail.com
+
 

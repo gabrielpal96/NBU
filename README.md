@@ -45,7 +45,7 @@
 
 ---------------------
 
-**CSCB200_Practice_Object-Oriented_Programming** | **CSCB209_Object_oriented_programming**
+[CSCB200 Practice Object Oriented Programming](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming) | [**CSCB209 Object oriented programming**](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming)
 :---------- | :---------
 [01.Person](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/01.Person) |[01.Rational](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/01.Rational)
 [02.Property](https://github.com/gabrielpal96/NBU/tree/master/CSCB200_Practice_on_Object-Oriented_Programming/02.Property) |[02.Students](https://github.com/gabrielpal96/NBU/tree/master/CSCB209_Object_oriented_programming/02.Students)

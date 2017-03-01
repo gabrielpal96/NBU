@@ -4,7 +4,7 @@
 **New Bulgarian University**
 ===================
     
->language:  **C++**
+>language:  **C++, Java**
 
     My courses:
 
